@@ -1,4 +1,5 @@
 ////////////////////////////PROGRAM FOR REGISTRATION OF STUDENT AND COURSES////////////
+// this is sampe program
 #include<iostream>
 #include<iomanip>
 #include<cstring>
